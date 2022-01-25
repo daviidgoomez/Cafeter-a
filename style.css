@@ -1,0 +1,106 @@
+body{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1.Header{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Neonderthaw', cursive;
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: brown;
+    font-size: x-large;
+}
+
+section.Carta{
+    margin: 40px;
+}
+
+section.coffe{
+    margin: 40px;
+    text-align: center;
+}
+
+section.Contacto{
+    margin: 40px;
+    text-align: right;
+}
+section.GRAO{
+    font-weight: bold;
+    text-align: center;
+    font-family: cursive;
+    color: brown;
+    background-color: beige
+    
+    
+}
+
+h1.lacarta{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Neonderthaw', cursive;
+}
+p.panier{
+    color: brown;
+    font-weight: bolder;
+    text-align: center;
+}
+p.tartines{
+    color: brown;
+    font-weight: bolder;
+    text-align: center;
+}
+p.napolitana{
+    color: brown;
+    font-weight: bolder;
+    text-align: center;
+
+}
+p.croi{
+    color: brown;
+    font-weight: bolder;
+    text-align: center;
+}
+h1.Caf{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Neonderthaw', cursive;
+}
+p.texto{
+    color: brown;
+    font-weight: bolder;
+    text-align: center;
+}
+h1.contt{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Neonderthaw', cursive;
+}
+h3.Numero{
+    color: brown;
+    background-color: beige;
+    font-weight: bold;
+    text-align: center;
+}
+
+p.cua{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+}
+h3.map{
+    color: brown;
+    background-color: beige;
+    font-weight: bolder;
+    text-align: center;
+
+}
+div.mp{
+    align-content: center;
+}
